@@ -1,1 +1,1 @@
-# stockprice_prediction
+# stockprice_alphasignal_prediction_Cla
